@@ -21,6 +21,7 @@
     "axios": "^1.6.5",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
+    "date-fns": "^3.2.0",
     "localforage": "^1.10.0",
     "lucide-react": "^0.295.0",
     "match-sorter": "^6.3.1",
